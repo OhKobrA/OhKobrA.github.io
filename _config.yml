@@ -5,7 +5,9 @@
 
 # --- Required options --- #
 remote_theme: ItsMeaga1n/minimal-categorized
-
+theme: ItsMeaga1n/minimal-categorized
+remote_theme: OhKobrA/minimal-categorized
+theme: OhKobrA/minimal-categorized
 # Name of website
 title: kobra
 
